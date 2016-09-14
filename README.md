@@ -1,4 +1,7 @@
 # Yasuko
+##尝试
+尝试fork了之后，还是没有能够生成Github.io
+整个网页就是不能正常生成，这是为什么？
 
 ![](https://luoleiorg.b0.upaiyun.com/blog/2015/12/yasuko2.jpg)
 
